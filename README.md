@@ -1,2 +1,2 @@
 # Pathfinding-Algorithm-Project
-Collaborative class project which utilized the Depth First Search algorithm for pathfinding in predefined arrays (used as maps). 
+Collaborative group project which utilized the Depth First Search algorithm for pathfinding in predefined maps (arrays).  
